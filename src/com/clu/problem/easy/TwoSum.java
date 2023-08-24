@@ -32,6 +32,11 @@ public class TwoSum {
 
 	}
 
+	/*
+	 * Improved solution
+	 * 
+	 * Runtime beat 99.47%, Memory beat 53.98%
+	 */
 	public int[] twoSum(int[] nums, int target) {
 		int[] result = null;
 		if (nums == null || nums.length <= 1) {

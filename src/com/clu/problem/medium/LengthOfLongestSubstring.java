@@ -77,7 +77,7 @@ public class LengthOfLongestSubstring {
 
 	
 	/**
-	 * This soluton beat 5%
+	 * This solution beat 5%, needs improvement
 	 */
     public int lengthOfLongestSubstring(String s) {
     	

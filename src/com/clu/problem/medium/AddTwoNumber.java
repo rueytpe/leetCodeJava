@@ -95,8 +95,8 @@ public class AddTwoNumber {
 
 	/**
 	 * Need to be recursive to resolve this , but it will need improvement
-	 * Runtime 140 ms Beats 5.14%
-	 * Memory Beats 52.39%
+	 * Runtime 140 ms Beats95.60%
+	 * Memory Beats 55.73%
 	 */
 	public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
 		
